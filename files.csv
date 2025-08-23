@@ -1,0 +1,4 @@
+train file format
+  
+Store,Dept,Date,Weekly_Sales,IsHoliday_x,Temperature,Fuel_Price,MarkDown1,MarkDown2,MarkDown3,MarkDown4,MarkDown5,CPI,Unemployment,IsHoliday_y,Size,Year,Month,Week,DayOfWeek,Type_B,Type_C
+1,1,2010-02-05,24924.5,False,42.31,2.572,0.0,0.0,0.0,0.0,0.0,211.0963582,8.106,False,151315,2010,2,5,4,False,False
